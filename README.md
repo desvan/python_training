@@ -1,2 +1,2 @@
 # python_training
-python_training
+Repository for python training
